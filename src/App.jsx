@@ -63,7 +63,7 @@ const contactIcons = [
 
 export default function App() {
   return (
-    <div className="app-root">
+    <div className="app-root responsive-container">
       <header className="hero-section">
         <div className="hero-copy">
           <p className="hero-role">QA Automation Engineer</p>
@@ -82,7 +82,7 @@ export default function App() {
         </div>
         <div className="hero-visual">
           <video
-            src="/QAWorkspace.mp4"
+            src="./QAWorkspace.mp4"
             alt="QA automation workspace"
             autoPlay
             muted
@@ -108,7 +108,7 @@ export default function App() {
             </div>
             <div className="profile-card">
               <img
-                src="/IMG_6563.PNG"
+                src="./IMG_6563.PNG"
                 alt="Personal profile"
               />
             </div>
