@@ -82,7 +82,7 @@ export default function App() {
         </div>
         <div className="hero-visual">
           <video
-            src="./QAWorkspace.mp4"
+            src="./src/QAWorkspace.mp4"
             alt="QA automation workspace"
             autoPlay
             muted
@@ -108,7 +108,7 @@ export default function App() {
             </div>
             <div className="profile-card">
               <img
-                src="./IMG_6563.PNG"
+                src="./src/IMG_6563.PNG"
                 alt="Personal profile"
               />
             </div>
